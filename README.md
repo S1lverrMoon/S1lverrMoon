@@ -27,5 +27,5 @@
 
 
 <div align="center">
-  <img src="478567fb50989f0a794a3b3514622ea6.jpg" width="100%">
+  <img src="100d99d87f2b58ba2b534ea1fc07fec7.jpg" width="100%">
 </div>
